@@ -5,6 +5,7 @@
 ![Vue](https://img.shields.io/badge/-Vue3.2(2023/03/29~)-black?style=flat-square&logo=vue.js)
 ![C](https://img.shields.io/badge/-C(2023/04/18~)-black?style=flat-square&logo=c)
 ![Rust](https://img.shields.io/badge/-Rust(2023/5/9~)-black?style=flat-square&logo=rust)
+![React](https://img.shields.io/badge/-React(2023/5/23~)-black?style=flat-square&logo=react)
 
 # Stats
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=yu256&show_icons=true&count_private=true&theme=merko)
