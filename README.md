@@ -7,6 +7,7 @@
 ![Rust](https://img.shields.io/badge/-Rust_(2023/5/9~)-black?style=flat-square&logo=rust)
 ![React](https://img.shields.io/badge/-React_(2023/5/23~)-black?style=flat-square&logo=react)
 ![F#](https://img.shields.io/badge/-FSharp_(2023/9/27~)-black?style=flat-square&logo=fsharp)
+![C++](https://img.shields.io/badge/-C++_(2024/1/23~)-black?style=flat-square&logo=cplusplus)
 
 # Stats
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=yu256&show_icons=true&count_private=true&theme=merko)
