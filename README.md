@@ -8,6 +8,7 @@
 ![React](https://img.shields.io/badge/-React_(2023/5/23~)-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![F#](https://img.shields.io/badge/-FSharp_(2023/9/27~)-378BAC?style=flat-square&logo=fsharp&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++_(2024/1/23~)-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Scala](https://img.shields.io/badge/-Scala_(2024/6/21~)-DC322F?style=flat-square&logo=scala&logoColor=white)
 
 # Stats
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=yu256&show_icons=true&count_private=true&theme=merko)
